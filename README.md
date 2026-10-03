@@ -39,4 +39,4 @@ and converts them into a hexadecimal color code.
 
 ## Author
 
-**Siddhi Deshmukh**
+Siddhi Deshmukh
