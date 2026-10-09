@@ -29,13 +29,6 @@ and converts them into a hexadecimal color code.
 - String formatting
 - Variables
 
-## Future Improvements
-
-- Generate multiple colors
-- Create a GUI
-- Display the actual color
-- Add a copy-to-clipboard option
-- Create color palettes
 
 ## Author
 
